@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tongzhiyuan/Picture-bed/main/透明底logo3.png" alt="logo" style="zoom:45%;" />
+<img src="Img\tlogo.png" style="zoom:50%;" />
 
 ##  `Ctrl+D`
 
@@ -10,4 +10,4 @@
 
 <!-- 背景图片 --> 
 
-![](https://raw.githubusercontent.com/tongzhiyuan/Picture-bed/main/logo配色图.png)
+![](Img\logo.png)
